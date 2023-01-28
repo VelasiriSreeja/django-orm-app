@@ -92,7 +92,7 @@ admin.site.register(Student,StudentAdmin)
 
 ![Screenshot (51)](https://user-images.githubusercontent.com/118344328/215287562-9f411b7f-8a98-407d-bfaf-e0bd59f20563.png)
 
-![Screenshot (53)](https://user-images.githubusercontent.com/118344328/215287569-5268bc46-db1e-48a1-a4d3-6daa77a70249.png)
+
 
 
 
