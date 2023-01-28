@@ -88,7 +88,7 @@ admin.site.register(Student,StudentAdmin)
 
 
 ## OUTPUT
-![image](https://user-images.githubusercontent.com/118344328/215287548-492dcb3c-4f11-45a8-87c1-0511d6e38af8.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/118344328/215287661-613c2370-8c2e-4851-90bd-5bb8a5a016a7.png)
 
 ![Screenshot (51)](https://user-images.githubusercontent.com/118344328/215287562-9f411b7f-8a98-407d-bfaf-e0bd59f20563.png)
 
